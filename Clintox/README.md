@@ -1,27 +1,3 @@
----
-annotations_creators:
-- machine-generated
-language_creators:
-- machine-generated
-license:
-- mit
-multilinguality:
-- monolingual
-pretty_name: clintox
-size_categories:
-- 1K<n<10K
-source_datasets: []
-tags:
-- bio
-- bio-chem
-- molnet
-- molecule-net
-- biophysics
-task_categories:
-- other
-task_ids: []
----
-
 # Dataset Card for clintox
 
 ## Table of Contents
